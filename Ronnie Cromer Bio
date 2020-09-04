@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <style>
+         body {
+             background-image: url("http://i.imgur.com/2mHCpyK.gif");
+             background-repeat: repeat-y;
+             background-position-x: center;
+             background-size: cover;
+    }
+    </style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ronnie Cromer Bio</title>
+</head>
+
+<body>
+
+    <h1>Ronnie Cromer - A Bit About Me!</h1>
+
+        <div>
+
+                <h2>A Pic</h2>
+                <img src="https://i.ibb.co/Xy4pMT5/15-C9-B46-D-DF11-415-C-8225-4271-E7425462.jpg" 
+                width="275" height="400"
+                alt="A pic of me on vacation in Grand Haven August 2020" 
+                title="A pic of me on vacation in Grand Haven August 2020" 
+                border="2" border-color="black">
+
+                    <p>As you can tell by the title, my name is Ronnie Cromer. I'm currently a junior at Michigan State University studying Computer Sciene.
+                        After changing majors for the fourth time, I decided this is the right career path for me, despite me being on the road to become a super senior.
+                         Somethings I enjoy are making music, I play guitar and sing, and a <em>little</em> bit of piano. I recently started a coding bootcamp that I'm super
+                         excited about, I can't wait to see what's in store!</p>
+        </div>
+
+        <div>
+            <h2>Contact Info</h2>
+
+                <uo>
+                    <li> <a href="mailto: cromer.ronnie@yahoo.com" alt="target="_blank"">cromer.ronnie@yahoo.com</a></li>
+                    <li> <a href="mailto: cromerro@msu.edu" alt="target="_blank"">cromerro@msu.edu</a></li>
+                    <li>Portfolio (coming soon!) :)</li>
+                </uo>
+        </div>
+
+</body>
+</html> 
